@@ -1,0 +1,6 @@
+credentials.txt
+*.pem
+*.key
+__pycache__/
+*.py
+ssh-env/
