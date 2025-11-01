@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ssh_bruteforce.py
-Simple, safe SSH brute-force demo for lab/testing only.
+Simple, safe SSH brute-force demo.
 Usage:
   python3 ssh_bruteforce.py 127.0.0.1 -u victim -P passwords.txt
 """
@@ -89,3 +89,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
