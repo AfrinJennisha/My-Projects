@@ -1,0 +1,9 @@
+{
+"timestamp":20251101T090959,
+"target:"127.0.0.1",
+"user":"victim",
+"wordlist_count":5,
+"found":false,
+"credential":victim@127.0.0.1:Victim@123",
+"notes":" Local lab run - Kali attacker -> localhost victim"
+}
